@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="button_true_text">True</string>
+    <string name="button_false_text">False</string>
+    <string name="question_text">Cats eat fish</string>
+    <string name="question_type">the Shorr typing speed is the big number 60 </string>
+    <string name="question_space">If you cry in space the tears just stick to your face</string>
+    <string name="question_segway">Owner of company that makes Segway died in a Segway accident</string>
+    <string name="question_worm">If you cut an earthworm in half, both halves can regrow their body</string>
+    <string name="question_end">You\'re done! Press next to restart the quiz</string>
+    <string name="toast_correct">Good, good</string>
+    <string name="toast_incorrect">HAHAHHA nope</string>
+    <string name="toast_cheated">you cheated, no points for you</string>
+
+    <string name="button_next">Next</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_cheat">Cheat</string>
+    <string name="are_you_sure_about_that">Are you sure about that?</string>
+    <!-- comment -->
+
+</resources>
